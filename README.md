@@ -44,7 +44,6 @@ Best hyperparameter configuration:
 {'max_depth': 20, 'min_samples_split': 5, 'n_estimators': 100}
 Mean F1 Score: 0.144
 🚀 Future Work
-- Deploy model as a web app using Flask or Streamlit
 - Integrate SHAP for model explainability
 - Collect more minority class data to improve recall
 - Engage stakeholders with interactive dashboards
